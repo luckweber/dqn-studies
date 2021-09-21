@@ -22,3 +22,7 @@ https://github.com/ZainBashir/Solving-openAI-Gym-MountainCarProblem-using-DQN-wi
 
 ### Resize Image
 https://red-route.org/code/image-resizing-calculator
+
+
+### Automatically create requirements.txt
+pip freeze > requirements.txt 
